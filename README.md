@@ -8,4 +8,4 @@ Liv Abrant
 * GitHub Web Flow
 * GitHub Collaboration
 * GitHub Command Line
-* And just basically an intro to everything GitHub
+* And basically an intro to everything GitHub
